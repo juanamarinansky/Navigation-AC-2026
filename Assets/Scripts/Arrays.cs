@@ -11,8 +11,6 @@ public class Arrays : MonoBehaviour
     {
         edades[0] = Random.Range(0, 11);
         edades[2] = 46;
-
-
     }
 
     // Update is called once per frame
